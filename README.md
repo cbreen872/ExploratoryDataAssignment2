@@ -22,7 +22,7 @@ The overall goal is to explore the National Emissions Inventory database and see
 what it say about fine particulate matter pollution in the United states over
 the 10-year period 1999-2008.
 
-* Questions
+Questions
 
 - Have total emissions from PM_{2.5} decreased in the United States from 1999 to
   2008?
